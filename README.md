@@ -1,0 +1,2 @@
+# javaPractice
+practice for FAANG
