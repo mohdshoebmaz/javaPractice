@@ -1,5 +1,5 @@
 package javaBasicPrograms;
-
+//
 public class primeNumbers {
     public static void main(String[] args) {
         printPrimeNumber(2);
