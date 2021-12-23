@@ -1,3 +1,5 @@
+package javaBasicPrograms;
+
 class FibonacciSeries {
     public static void main(String[] args){
         long n1 = 0;
