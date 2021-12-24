@@ -4,6 +4,8 @@ public class primeNumbers {
     public static void main(String[] args) {
         printPrimeNumber(2);
     }
+
+    // funtion for prime number
     static void printPrimeNumber(int n){
         int m = n/2;
         int flag =0;
